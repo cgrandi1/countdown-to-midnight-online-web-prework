@@ -6,4 +6,3 @@ breaks if x = 0
 end
 return "HAPPY NEW YEAR!"
 
-def countdown_with_sleep
