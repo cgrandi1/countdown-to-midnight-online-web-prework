@@ -4,4 +4,6 @@ while x =< 10
 x -=1 
 breaks if x = 0
 end
-return ""
+return "HAPPY NEW YEAR!"
+
+def countdown_with_sleep
